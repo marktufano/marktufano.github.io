@@ -20,7 +20,7 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           https://github.com/marktufano/marktufano.github.io
+  repo:           github.com/marktufano/marktufano.github.io
 
   gems:
   - jekyll-redirect-from
